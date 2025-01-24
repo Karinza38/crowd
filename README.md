@@ -1,4 +1,4 @@
-# crowd - monorepo manager for TypeScript
+ # crowd - monorepo manager for TypeScript
 
 **ATTENTION**: This library is still under initial development.
 
