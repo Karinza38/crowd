@@ -17,7 +17,7 @@
   "bin": "./dist/run.js",
   "type": "module",
   "dependencies": {
-    "cmd-ts": "^0.11.0",
+    "cmd-ts": "^0.13.0",
     "detect-indent": "^7.0.1",
     "ink": "^3.2.0",
     "ink-spinner": "^4.0.3",
